@@ -1,6 +1,6 @@
 ## Introduction
 
-iBeacon is a new technology that extends Location Services in iOS. It enables a low cost, low powered indoor proximity monitoring for devices. A beacon is simply a device that transmits a signal that allows other devices to detect its proximity. An iBeacon users Bluetooth Low Energy advertisement packets to advertise its availability and the devices can then listen and decode the advertisement packet to find more details about the beacon. 
+iBeacon is a new technology that extends Location Services in iOS. It enables a low cost, low powered indoor proximity monitoring for devices. A beacon is simply a device that transmits a signal that allows other devices to detect its proximity. An iBeacon uses Bluetooth Low Energy advertisement packets to advertise its availability and the devices can then listen and decode the advertisement packet to find more details about the beacon. 
 
 ## How can I get some beacons?
 There are a lot of possible options for buying low cost beacons for creating wonderful indoor experiences. There's [Estimote](http://estimote.com/) which is probably the most famous one in the market right now. But there are plenty of others too including [Kontakt](http://kontakt.io), [Radius Networks](http://www.radiusnetworks.com/) or you could even [roll out your own](http://www.theregister.co.uk/2013/11/29/feature_diy_apple_ibeacons/) without much trouble. If you ever want to decide which one to buy, there is a really good comparision [here](http://beekn.net/guide-to-ibeacons/). 
